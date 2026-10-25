@@ -1,0 +1,6 @@
+{
+  "name": "Public Help - Global Civic Accountability & Escalation Platform",
+  "description": "A worldwide civic platform for reporting public problems, tracking responsible organizations, escalating unresolved issues, and raising international awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
